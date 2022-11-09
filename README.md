@@ -1,6 +1,6 @@
  Hi there ,👋  
 - I’m @Chamilka-sandu
-- 👀 I’m interested in  
+- 👀 I’m interested in software development 
 - 🌱 I’m currently following BSc.in Computer Science and Technology
 - 📫 How to reach me :linkedin : https://www.linkedin.com/in/chamilka-sanduni-a975581a9/ Medium : https://medium.com/@cst18045
 
