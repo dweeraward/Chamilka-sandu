@@ -1,5 +1,4 @@
 - Hi there ,👋  
-- 
 - I’m @Chamilka-sandu
 - 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently following BSc.in Computer Science and Technology
