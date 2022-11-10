@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chamilka sanduni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamilka sanduni" height="30" width="40" /></a>
-<a href="https://medium.com/chamilka sanduni@cst18045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chamilka sanduni@cst18045" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chamilka-sanduni-a975581a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chamilka-sanduni-a975581a9/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@cst18045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@cst18045" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
