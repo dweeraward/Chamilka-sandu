@@ -1,7 +1,8 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://khushboogoel01.github.io)
 
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Chamilka Sanduni</h1>
 <h3 align="center">Currently I'm Computer Science Undergraduate at Uva Wellassa University</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/542979/screenshots/3000076/media/105bc474b3260cf1030e66e5ba788266.gif">
 
 - 📝 I regularly write articles on [https://medium.com/@cst18045](https://medium.com/@cst18045)
