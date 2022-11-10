@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Chamilka Sanduni</h1>
 <h3 align="center">Currently I'm Computer Science Undergraduate at Uva Wellassa University</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 
 - 📝 I regularly write articles on [https://medium.com/@cst18045](https://medium.com/@cst18045)
 
