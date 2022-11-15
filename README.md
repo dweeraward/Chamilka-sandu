@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cst18045](https://medium.com/@cst18045)
 - ⚡ In my free time I read tech articles.
-- - 👨‍💻 All of my projects are available at [https://www.behance.net/chamilkasanduni](https://www.behance.net/chamilkasanduni)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/chamilkasanduni](https://www.behance.net/chamilkasanduni)
 - 📫 How to reach me **chamilkasanduni96@gmail.com**
 
 
