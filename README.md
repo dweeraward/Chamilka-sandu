@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@cst18045](https://medium.com/@cst18045)
 - ⚡ In my free time I read tech articles.
-- 📫 How to reach me **chamilkasanduni96@gmail.com**
+- 📫 How to reach me **sandunidayarathna34@gmail.com**
 
 
 
